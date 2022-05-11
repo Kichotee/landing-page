@@ -239,3 +239,9 @@ li a:hover {
     transform: width linear;
   }
 }
+@media screen and (max-width:1024px){
+  img{
+    width:50%;
+      height:40%;
+  }
+}
